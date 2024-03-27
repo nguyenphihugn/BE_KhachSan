@@ -1,1 +1,2 @@
-# BE_KhachSan
+# KhachSan
+BackEnd
